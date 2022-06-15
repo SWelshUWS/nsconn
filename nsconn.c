@@ -6,11 +6,11 @@
 
 
   TO DO:
-    * redo error checking - what is considered best standards?
+    * redo error checking - swap perrors for more detail
     * check that all memory allocations have been freed
-    * add MAC arg to config file if field is empty
+    * add MAC arg to config file if field is empty (DONE)
     * /usr folder is for read only files - change the install file!
-    * socket needs keepalive option
+    * socket needs keepalive option (DONE)
 
 */
 
